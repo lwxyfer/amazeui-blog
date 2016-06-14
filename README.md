@@ -19,4 +19,4 @@
 #### 说明：
 演示地址中资源都未做压缩，有较大的图片文件。建议到本地做预览。
 
-  [1]: https://lwxyfer.github.io/amazeui/lw-index.html
+  [1]: https://lwxyfer.github.io/amazeui-test/lw-index.html
